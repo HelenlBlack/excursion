@@ -1,9 +1,11 @@
 h1,
 h2,
 h3,
+a,
 p {
     font-family: Verdana;
     font-weight: normal;
+    text-align: center;
 }
 
 .topline {
@@ -12,8 +14,8 @@ p {
     text-align: center;
 }
 
-.link {
+.downloadlink {
     font-size: 16px;
     color: aquamarine;
-    text-align: center;
+    margin: 10px auto;
 }
