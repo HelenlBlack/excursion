@@ -21,3 +21,13 @@ p {
     color: aquamarine;
 }
 
+.personal {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.poi {
+    font-size: 21px;
+    color: gray;
+}
