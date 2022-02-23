@@ -6,6 +6,8 @@ p {
     font-family: Verdana;
     font-weight: normal;
     text-align: center;
+    display: flex;
+    justify-content: center;   
 }
 
 .topline {
@@ -14,8 +16,8 @@ p {
     text-align: center;
 }
 
-.downloadlink {
+.link {
     font-size: 16px;
     color: aquamarine;
-    margin: 10px auto;
 }
+
